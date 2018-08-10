@@ -16,6 +16,7 @@ books:
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+enable_edit: true
 ---
 
 ![티라노사우루스 렉스](https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00399363_347a.jpg)

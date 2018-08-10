@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2018-08-10 10:36:35
+enable_edit: false
 ---
 
 ### Dinosean에 관해서

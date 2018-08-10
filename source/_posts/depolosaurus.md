@@ -16,6 +16,7 @@ books:
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+enable_edit: true
 ---
 
 ## English:

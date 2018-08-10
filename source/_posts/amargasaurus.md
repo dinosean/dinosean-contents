@@ -16,6 +16,7 @@ books:
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+enable_edit: true
 ---
 
 ![아마르가사우루스](https://images.dinosaurpictures.org/amargasaurus-dinosaurios-coleccion-d4-1_fa7b.jpg)

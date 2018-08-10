@@ -16,6 +16,7 @@ books:
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+enable_edit: true
 ---
 
 ![벨로키랍토르](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Velociraptor_Restoration.png/2560px-Velociraptor_Restoration.png)
