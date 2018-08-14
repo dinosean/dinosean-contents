@@ -17,9 +17,11 @@ books:
   - [Books, 恐龙百科大全]
 tags:
 enable_edit: true
+date: 2018-07-01 09:00:05
+updated: 2018-08-14 15:36:35
 ---
 
-![벨로키랍토르](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Velociraptor_Restoration.png/2560px-Velociraptor_Restoration.png)
+![벨로키랍토르](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Velociraptor_Restoration.png/440px-Velociraptor_Restoration.png)
 [사진 더 보기](https://dinosaurpictures.org/Velociraptor-pictures)
 
 ## English: Velociraptor

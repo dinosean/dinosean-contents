@@ -17,6 +17,8 @@ books:
   - [Books, 恐龙百科大全]
 tags:
 enable_edit: true
+date: 2018-07-01 09:00:01
+updated: 2018-08-14 15:36:35
 ---
 
 ![아마르가사우루스](https://images.dinosaurpictures.org/amargasaurus-dinosaurios-coleccion-d4-1_fa7b.jpg)

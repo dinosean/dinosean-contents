@@ -17,6 +17,8 @@ books:
   - [Books, 恐龙百科大全]
 tags:
 enable_edit: true
+date: 2018-07-01 09:00:00
+updated: 2018-08-14 15:36:35
 ---
 
 ![스피노사우루스](https://images.dinosaurpictures.org/spinosaurus_ee24.jpg)
