@@ -1,21 +1,19 @@
 ---
 title: Amargasaurus
 categories:
-  - - Name
-    - A
-  - - 이름
-    - ㅇ
-  - - 名字
-    - A
-  - - 草食恐龙
-  - - 초식공룡
-  - - 白垩纪
-    - 白垩纪早期
+  - [1, Name, A]
+  - [1, 이름, ㅇ]
+  - [1, 名字, A]
+  - [2, 生存年代, 白垩纪, 白垩纪早期]
+  - [3, 食性, 植食性]
+  - [3, 식성, 초식성]
+
 books:
   - [Books, 진짜 진짜 재밌는 공룡 그림책]
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+thumbnail: https://images.dinosaurpictures.org/amargasaurus-dinosaurios-coleccion-d4-1_fa7b.jpg
 enable_edit: true
 date: 2018-07-01 09:00:01
 updated: 2018-08-14 15:36:35

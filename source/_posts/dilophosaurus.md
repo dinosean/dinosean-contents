@@ -1,21 +1,19 @@
 ---
 title: Dilophosaurus
 categories:
-  - - Name
-    - D
-  - - 이름
-    - ㄷ
-  - - 名字
-    - S
-  - - 肉食恐龙
-  - - 육식공룡
-  - - 侏罗纪
-    - 侏罗纪早期
+  - [1, Name, D]
+  - [1, 이름, ㄷ]
+  - [1, 名字, S]
+  - [2, 生存年代, 侏罗纪, 侏罗纪早期]
+  - [3, 食性, 肉食性]
+  - [3, 식성, 육식성]
+
 books:
   - [Books, 진짜 진짜 재밌는 공룡 그림책]
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+thumbnail: https://images.dinosaurpictures.org/Dilophosaurus_by_kyoht-d3diw65_bb04.jpg
 enable_edit: true
 date: 2018-07-01 09:11:00
 updated: 2018-08-14 15:36:35

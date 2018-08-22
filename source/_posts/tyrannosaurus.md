@@ -1,21 +1,22 @@
 ---
 title: Tyrannosaurus
 categories:
-  - - Name
-    - T
-  - - 이름
-    - ㅌ
-  - - 名字
-    - B
-  - - 肉食恐龙
-  - - 육식공룡
-  - - 白垩纪
-    - 白垩纪晚期
+  - [1, Name, T]
+  - [1, 이름, ㅌ]
+  - [1, 名字, B]
+  - [2, 生存年代, 白垩纪, 白垩纪晚期]
+  - [3, 食性, 肉食性]
+  - [3, 식성, 육식성]
+
 books:
   - [Books, 진짜 진짜 재밌는 공룡 그림책]
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+  - JurassicWorld
+  - 쥬라기월드
+  - 侏罗纪世界
+thumbnail: https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00399363_347a.jpg
 enable_edit: true
 date: 2018-07-01 09:10:01
 updated: 2018-08-14 15:36:50

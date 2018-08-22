@@ -1,21 +1,19 @@
 ---
 title: Spinosaurus
 categories:
-  - - Name
-    - S
-  - - 이름
-    - ㅅ
-  - - 名字
-    - J
-  - - 肉食恐龙
-  - - 육식공룡
-  - - 白垩纪
-    - 白垩纪晚期
+  - [1, Name, S]
+  - [1, 이름, ㅅ]
+  - [1, 名字, J]
+  - [2, 生存年代, 白垩纪, 白垩纪晚期]
+  - [3, 食性, 肉食性]
+  - [3, 식성, 육식성]
+
 books:
   - [Books, 진짜 진짜 재밌는 공룡 그림책]
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
+thumbnail: https://images.dinosaurpictures.org/spinosaurus_ee24.jpg
 enable_edit: true
 date: 2018-07-01 09:00:00
 updated: 2018-08-14 15:36:35
