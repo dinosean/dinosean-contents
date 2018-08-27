@@ -17,7 +17,6 @@ tags:
   - 쥬라기월드
   - 侏罗纪世界
 thumbnail: https://images.dinosaurpictures.org/stegosaurus_86fa.jpg
-is_today: true
 enable_edit: true
 date: 2018-08-25 09:00:00
 updated: 2018-08-14 15:36:35
