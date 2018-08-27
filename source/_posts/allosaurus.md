@@ -4,7 +4,7 @@ categories:
   - [1, Name, A]
   - [1, 이름, ㅇ]
   - [1, 名字, Y]
-  - [2, 生存年代, 侏罗纪, 侏罗纪后期]
+  - [2, 生存年代, 侏罗纪, 侏罗纪晚期]
   - [3, 食性, 肉食性]
   - [3, 식성, 육식성]
 
@@ -16,7 +16,7 @@ updated: 2018-08-21 11:00:01
 ---
 
 ![알로사우루스](https://images.dinosaurpictures.org/Allosaurus4_d8ad.jpg)
-[사진 더 보기](https://dinosaurpictures.org/Allosaurus-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Allosaurus-pictures)
 
 ## English: Allosaurus
 

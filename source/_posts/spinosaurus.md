@@ -20,7 +20,7 @@ updated: 2018-08-14 15:36:35
 ---
 
 ![스피노사우루스](https://images.dinosaurpictures.org/spinosaurus_ee24.jpg)
-[사진 더 보기](https://dinosaurpictures.org/Spinosaurus-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Spinosaurus-pictures)
 
 ## English: Spinosaurus
 

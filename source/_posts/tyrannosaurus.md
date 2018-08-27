@@ -23,7 +23,7 @@ updated: 2018-08-14 15:36:50
 ---
 
 ![티라노사우루스 렉스](https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00399363_347a.jpg)
-[사진 더 보기](https://dinosaurpictures.org/Tyrannosaurus-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Tyrannosaurus-pictures)
 
 ## English: Tyrannosaurus
 Alias: T-Rex

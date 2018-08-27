@@ -20,7 +20,7 @@ updated: 2018-08-14 15:36:35
 ---
 
 ![딜로포사우루스](https://images.dinosaurpictures.org/Dilophosaurus_by_kyoht-d3diw65_bb04.jpg)
-[사진 더 보기](https://dinosaurpictures.org/Dilophosaurus-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Dilophosaurus-pictures)
 
 
 ## English: Dilophosaurus

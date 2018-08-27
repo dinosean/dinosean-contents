@@ -20,7 +20,7 @@ updated: 2018-08-14 15:36:35
 ---
 
 ![아마르가사우루스](https://images.dinosaurpictures.org/amargasaurus-dinosaurios-coleccion-d4-1_fa7b.jpg)
-[사진 더 보기](https://dinosaurpictures.org/Amargasaurus-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Amargasaurus-pictures)
 
 ## English: Amargasaurus
 

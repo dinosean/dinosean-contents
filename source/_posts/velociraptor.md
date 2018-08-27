@@ -20,7 +20,7 @@ updated: 2018-08-21 11:00:05
 ---
 
 ![벨로키랍토르](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Velociraptor_Restoration.png/440px-Velociraptor_Restoration.png)
-[사진 더 보기](https://dinosaurpictures.org/Velociraptor-pictures)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Velociraptor-pictures)
 
 ## English: Velociraptor
 

@@ -13,11 +13,13 @@ books:
   - [Books, Ultimate Dinopedia(Second Edition)]
   - [Books, 恐龙百科大全]
 tags:
-thumbnail: 
+thumbnail: https://img00.deviantart.net/7821/i/2006/274/5/0/jump_by_unlobogris.jpg
 enable_edit: true
 date: 2018-07-01 09:00:00
 updated: 2018-08-14 15:36:35
 ---
+
+![오프탈모사우루스](https://img00.deviantart.net/7821/i/2006/274/5/0/jump_by_unlobogris.jpg)
 
 ## English: Ophthalmosaurus
 
