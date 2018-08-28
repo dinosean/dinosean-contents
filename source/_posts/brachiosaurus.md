@@ -11,7 +11,6 @@ categories:
 tags:
 thumbnail: https://images.dinosaurpictures.org/Brachiosaurus_90de.jpg
 is_today: true
-enable_edit: true
 date: 2018-08-27 11:00:01
 updated: 2018-08-27 11:00:01
 ---
