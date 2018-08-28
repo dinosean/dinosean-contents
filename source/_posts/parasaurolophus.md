@@ -6,7 +6,7 @@ categories:
   - [1, 名字, F]
   - [2, 生存年代, 白垩纪, 白垩纪晚期]
   - [3, 食性, 植食性]
-  - [3, 식성, 식성]
+  - [3, 식성, 초식성]
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Parasaurolophus_37ed.jpg
