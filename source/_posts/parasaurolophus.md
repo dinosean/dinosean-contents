@@ -9,14 +9,14 @@ categories:
   - [3, 식성, 식성]
 
 tags:
-thumbnail: http://images.dinosaurpictures.org/Parasaurolophus_37ed.jpg
+thumbnail: https://images.dinosaurpictures.org/Parasaurolophus_37ed.jpg
 is_today: true
 enable_edit: true
 date: 2018-08-28 11:00:01
 updated: 2018-08-28 11:00:01
 ---
-![파라사우롤로푸스](https://images.dinosaurpictures.org/Allosaurus4_d8ad.jpg)
-사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Allosaurus-pictures)
+![파라사우롤로푸스](https://images.dinosaurpictures.org/Parasaurolophus_37ed.jpg)
+사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Parasaurolophus-pictures)
 
 ## English: Parasaurolophus
 
@@ -25,7 +25,7 @@ updated: 2018-08-28 11:00:01
 ## 한국어: 파라사우롤로푸스
 
 - [#진짜 진짜 재밌는 공룡 그림책#](/books/p/3289261dc4d846b8a02798617a63ad75/) p116
-- [#어린이를 위한 공룡 대백과#](/books/p/f60f989c24559d39cb141e73aa0754c0/) p75.78
+- [#어린이를 위한 공룡 대백과#](/books/p/f60f989c24559d39cb141e73aa0754c0/) p75, p78
 
 ## 中文: 副栉龙
 
