@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Parasaurolophus_37ed.jpg
-is_today: true
 enable_edit: true
 date: 2018-08-28 11:00:01
 updated: 2018-08-28 11:00:01
