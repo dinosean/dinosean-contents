@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/carnotaurus-1_65ea.jpg
-is_today: true
 enable_edit: true
 date: 2018-08-30 11:00:01
 updated: 2018-08-30 11:00:01
