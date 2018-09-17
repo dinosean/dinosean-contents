@@ -4,7 +4,7 @@ categories:
   - [1, Name, P]
   - [1, 이름, ㅍ]
   - [1, 名字, B]
-  - [2, 生存年代, 侏罗纪, 侏罗纪初期]
+  - [2, 生存年代, 侏罗纪, 侏罗纪早期]
   - [3, 食性, 食鱼性]
   - [3, 식성, 어식성]
 
@@ -19,6 +19,8 @@ updated: 2018-09-16 17:55:00
 사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Plesiosaurus-pictures)
 
 ## English: Plesiosaurus
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Plesiosaurus)
 
 ## 한국어: 플레시오사우루스
 
