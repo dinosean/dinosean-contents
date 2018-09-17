@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Plesiosaurus_dolich1DB_e4e5.jpg
-is_today: true
 enable_edit: true
 date: 2018-09-16 17:55:00
 updated: 2018-09-16 17:55:00
