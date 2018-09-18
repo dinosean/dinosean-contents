@@ -9,13 +9,13 @@ categories:
   - [3, 식성, 초식성]
 
 tags:
-thumbnail: http://images.dinosaurpictures.org/5752ankylosaurus_215a.jpg
+thumbnail: https://images.dinosaurpictures.org/5752ankylosaurus_215a.jpg
 is_today: true
 enable_edit: true
 date: 2018-09-17 19:00:00
 updated: 2018-09-17 19:00:00
 ---
-![카르노타우루스](http://images.dinosaurpictures.org/5752ankylosaurus_215a.jpg)
+![카르노타우루스](https://images.dinosaurpictures.org/5752ankylosaurus_215a.jpg)
 사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Ankylosaurus-pictures)
 
 ## English: Ankylosaurus
