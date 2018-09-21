@@ -20,6 +20,7 @@ enable_edit: false
 ### Connect
 - Domain 1: https://dinosean.github.io/
 - Domain 2: https://dinosean.netlify.com/
+- Twitter: https://twitter.com/DinoseanSh
 - Facebook: https://www.facebook.com/dinosean.sh
 - Instagram: https://www.instagram.com/dinosean.sh/
 - Google+: https://plus.google.com/u/0/102523305014345270306
