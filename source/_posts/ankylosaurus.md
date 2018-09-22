@@ -19,13 +19,11 @@ updated: 2018-09-17 19:00:00
 
 ## English: Ankylosaurus
 
-- [#Ultimate Dinopedia(Second Edition)#](/books/p/86d06d1161eb1684c26079a0348b5931/) p132
+- [#Ultimate Dinopedia(Second Edition)#](/books/p/86d06d1161eb1684c26079a0348b5931/) p72
 
 ## 한국어: 안킬로사우루스
 
-- [#진짜 진짜 재밌는 공룡 그림책#](/books/p/3289261dc4d846b8a02798617a63ad75/) p
-- [#어린이를 위한 공룡 대백과#](/books/p/f60f989c24559d39cb141e73aa0754c0/) p
 
 ## 中文: 甲龙
 
-- [#恐龙百科大全#](/books/p/6cd4e752e2119c63c607be6bb97d17aa/) p
+- [#恐龙百科大全#](/books/p/6cd4e752e2119c63c607be6bb97d17aa/) p168

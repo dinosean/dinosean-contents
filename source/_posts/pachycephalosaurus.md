@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Sketch_pachycephalosaurus_208f.jpg
-is_today: true
 enable_edit: true
 date: 2018-09-21 11:00:00
 updated: 2018-09-21 11:00:00
