@@ -16,13 +16,13 @@ tags:
   - JurassicWorld
   - 쥬라기월드
   - 侏罗纪世界
-thumbnail: https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00399363_347a.jpg
+thumbnail: https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00336745_13a8.jpg
 enable_edit: true
 date: 2018-07-01 09:10:01
 updated: 2018-08-14 15:36:50
 ---
 
-![티라노사우루스 렉스](https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00399363_347a.jpg)
+![티라노사우루스 렉스](https://images.dinosaurpictures.org/dinosaurs-tyrannosaurus_00336745_13a8.jpg)
 사진 더 보기: [DinosaurPictures.org](https://dinosaurpictures.org/Tyrannosaurus-pictures)
 
 ## English: Tyrannosaurus
