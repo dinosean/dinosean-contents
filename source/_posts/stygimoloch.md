@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Stygimoloch_0d15.jpg
-is_today: true
 enable_edit: true
 date: 2018-09-22 11:00:00
 updated: 2018-09-22 11:00:00
