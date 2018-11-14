@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Baryonyx_9b3f.jpg
-is_today: true
 enable_edit: true
 date: 2018-09-25 12:00:00
 updated: 2018-09-25 12:00:00
