@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/Shunosaurus_0dcd.jpg
-is_today: true
 enable_edit: true
 date: 2018-11-14 12:00:00
 updated: 2018-11-14 12:00:00
