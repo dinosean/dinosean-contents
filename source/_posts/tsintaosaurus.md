@@ -10,7 +10,6 @@ categories:
 
 tags:
 thumbnail: https://images.dinosaurpictures.org/mm-tsintaosaurus-illustration-big_d255.jpg
-is_today: true
 enable_edit: true
 date: 2020-03-07 12:00:00
 updated: 2020-03-07 12:00:00
